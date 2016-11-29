@@ -1,2 +1,2 @@
-# adobe-motion
-Adobe Motion
+# Adobe Motion
+Adobe motion files
